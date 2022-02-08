@@ -1,0 +1,16 @@
+using UnityEditor;
+
+// This file should be placed under the Editor folder.
+namespace MenuItemSettings
+{
+    // create MenuItem that generates Script files from Template files.
+    public partial class CreateScriptFromTemplates
+    {   /* You need to change the words enclosed in {}*/
+        
+        //private const string {Variable name} = {Name of MenuItem: string};
+
+        // MenuItems
+        //[MenuItem(ROOT_MENUITEM + {Variable name}, priority = PRIORITY)]
+        //public static void Create{Method name}() => CreateScriptFile({Template name: string}, NAME_NEWFILE);
+    }
+}

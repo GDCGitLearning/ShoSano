@@ -1,0 +1,14 @@
+// /* You need to change the words enclosed in {}*/
+using UnityEngine;
+using UnityEditor;
+
+//[CustomEditor(typeof({class you want to customize inspector}))]
+public class #SCRIPTNAME#: Editor
+{
+	public override void OnInspectorGUI()
+    {
+        base.OnInspectorGUI();
+
+        if (GUILayout.Button("")){}
+    }
+}
