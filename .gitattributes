@@ -1,6 +1,6 @@
 ## Unity ##
 
-*.cs diff=csharp text eol=lf
+*.cs text eol=lf
 *.cginc text
 *.shader text
 
